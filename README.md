@@ -1,4 +1,4 @@
-# CI-LiteAdmin
+# LiteAdmin
 
 CodeIgniter 3.1.10 with LiteAdmin 2.0
 Code Sample
