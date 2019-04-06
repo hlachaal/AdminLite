@@ -51,3 +51,7 @@ It should work on 5.4.8 as well, but we strongly advise you NOT to run such old 
 
 - [CodeIgniter](https://github.com/bcit-ci/CodeIgniter)
 - [Translations for CodeIgniter System](https://github.com/bcit-ci/codeigniter3-translations)
+
+## Screenshot
+
+![Alt text](/LiteAdmin.png?raw=true "Optional Title")
