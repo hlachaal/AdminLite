@@ -6,7 +6,7 @@ Code Sample
 ## Installation
 
 1. Unzip the package.
-2. Upload the `CI-LiteAdmin` folders and files to your server.
+2. Upload the `LiteAdmin` folders and files to your server.
 3. Update `application/config/common/dp_config.php` file:
 
 ```
