@@ -15,7 +15,7 @@ $host_dev = 'LiteAdmin';
 $host_prod = 'http://localhost/LiteAdmin';
 ```
 
-4. Create a table named `ci_LiteAdmin` and inject the data from the `install/sql/ci_LiteAdmin.sql` file.
+4. Create a new database named `ci_LiteAdmin` and inject the data from the `install/sql/ci_LiteAdmin.sql` file.
 5. Change if necessary the connection information to your database in the `application/config/database.php` file.
 
 ### Login
