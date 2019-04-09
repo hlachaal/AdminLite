@@ -30,6 +30,5 @@ $host_prod = 'http://localhost/LiteAdmin';
 - [CodeIgniter](https://github.com/bcit-ci/CodeIgniter)
 - [Translations for CodeIgniter System](https://github.com/bcit-ci/codeigniter3-translations)
 
-## Screenshot
 
 ![Alt text](/LiteAdmin.png?raw=true "Optional Title")
