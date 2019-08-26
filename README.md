@@ -2,10 +2,6 @@
 
 CodeIgniter 3.1.10 with Bootstrap 3.3.7
 
-## Purpose
-
-Showing code sample.
-
 ## Installation
 
 1. Unzip the package.
