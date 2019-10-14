@@ -1,4 +1,4 @@
-## LiteAdmin
+## AdminLite
 
 CodeIgniter 3.1.10 with Bootstrap 3.3.7
 
